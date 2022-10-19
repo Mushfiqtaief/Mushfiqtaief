@@ -12,6 +12,22 @@
 - 📫 How to reach me **Mushfiqtaiefyt@gmail.com**
 
 - ⚡ About me **I want to learn as many possible.**
+<h3 align="left">My Skills:</h3>
+<p align="left">
+
+- Grafix design
+
+- Web design
+
+- Application Design
+
+- UI Design
+
+- Web Development
+
+- Android App Development
+
+- Ethical H@cKiNg
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

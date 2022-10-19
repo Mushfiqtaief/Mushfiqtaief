@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Mushfiqtaiefyt@gmail.com**
 
-- ⚡ Fun fact **I want to learn as many possible.**
+- ⚡ About me **I want to learn as many possible.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

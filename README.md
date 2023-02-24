@@ -1,11 +1,8 @@
-![logo](https://raw.githubusercontent.com/Mushfiqtaief/Mushfiqtaief/main/c49eb886409381.5d987e6142e5f-picsay.png)
-<h1 align="center">Hi 👋, I'm Mushfiq Taief</h1>
-<h3 align="center">A professional developer from Bangladesh.</h3>
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp?cid=6c09b952a2f9d158cdc71a2136b4f2e6db0f067c3c32008e&rid=giphy.webp&ct=g">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushfiqtaief&label=Profile%20views&color=0e75b6&style=flat" alt="mushfiqtaief" /> </p>
 
-- 🌱 I’m currently learning **UI/UX DESIGN**
+- 🌱 I’m currently learning ** Nothing**
 
 - 💬 Ask me about **Grafix, Website, Programmes**
 
@@ -20,8 +17,6 @@
 - Web design
 
 - Application Design
-
-- UI Design
 
 - Web Development
 
